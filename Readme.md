@@ -24,4 +24,4 @@ maaassss eu passei tudo para a linguagem de programação C
 14. Memoria
 
 
-Após esse conteúdo entramos em *estruturas de dados* esta num novo repositório lá no meu git
+Após esse conteúdo entramos em *estruturas de dados* esta em um novo repositório lá no meu git
