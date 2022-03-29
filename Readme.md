@@ -1,4 +1,4 @@
-#Logica de Programação
+# Logica de Programação
 ## Como é organizado essas pasta ?
 
 Vou te explicar!
@@ -6,7 +6,7 @@ Minha logica de programação na faculdade foi em Portugol,
 maaassss eu passei tudo para a linguagem de programação C
 
 # Então:
-##Começando em C
+## Começando em C
 0. Livro Base
 1. Preparando o Ambiente
 2. Biblioteca
