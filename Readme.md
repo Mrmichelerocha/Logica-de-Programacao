@@ -1,11 +1,11 @@
 # Logica de Programação
-## Como é organizado essas pasta ?
+### Como é organizado essas pasta ?
 
 Vou te explicar!
 Minha logica de programação na faculdade foi em Portugol,
 maaassss eu passei tudo para a linguagem de programação C
 
-# Então:
+##### Então:
 ## Começando em C
 0. Livro Base
 1. Preparando o Ambiente
