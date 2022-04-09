@@ -27,6 +27,7 @@ maaassss eu passei tudo para a linguagem de programação C
 Após esse conteúdo entramos em *estruturas de dados* que está disponivel em um novo repositório lá no meu git tudo bem organizadinho.
 
 Por que codigo organizado é outro tipo de codigo.
+<br>
 Boa sorte e bons estudos.
 
-##### A gente se VÊ.
+##### A gente se vê.
