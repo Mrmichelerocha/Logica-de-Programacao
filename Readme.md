@@ -22,6 +22,10 @@ maaassss eu passei tudo para a linguagem de programação C
 12. Estrutura de Dados - heterogêneas - Registros
 13. Funções
 14. Memoria
+15. Arquivo
+
+*Para compilar seus projetos, tente uma IDE (eu uso o atom) ou compile pelo CMD*
+*tem uma pasta cmd que existe alguns comandos basicos*
 
 
 Após esse conteúdo entramos em *estruturas de dados* esta num novo repositório lá no meu git
