@@ -24,4 +24,9 @@ maaassss eu passei tudo para a linguagem de programação C
 14. Memoria
 
 
-Após esse conteúdo entramos em *estruturas de dados* esta em um novo repositório lá no meu git
+Após esse conteúdo entramos em *estruturas de dados* que está disponivel em um novo repositório lá no meu git tudo bem organizadinho.
+
+Por que codigo organizado é outro tipo de codigo.
+Boa sorte e bons estudos.
+
+##### A gente se VÊ.
